@@ -1,0 +1,8 @@
+Modif Build exe after create Grab
+Modif le .bat apres avoir créé le Grab
+
+recplace.ico par ton path ico
+remplace .ico par ton emplacement de l'icon
+
+
+Puis envoie le exe a ta victim
