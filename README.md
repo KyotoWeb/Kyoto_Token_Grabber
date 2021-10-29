@@ -30,4 +30,4 @@
   <a target="_blank" rel="noopener noreferrer" href="https://cdn.discordapp.com/attachments/881493015577919500/903757120883785768/Capture.PNG"><img src="https://cdn.discordapp.com/attachments/881493015577919500/903757120883785768/Capture.PNG" data-canonical-src="https://cdn.discordapp.com/attachments/881493015577919500/903757120883785768/Capture.PNG" style="max-width: 100%;"></a>
   
   
-    <a target="_blank" rel="noopener noreferrer" href="https://cdn.discordapp.com/attachments/881493015577919500/903757572975243284/Captureff.PNG" data-canonical-src="https://cdn.discordapp.com/attachments/881493015577919500/903757572975243284/Captureff.PNG" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer" href="https://cdn.discordapp.com/attachments/881493015577919500/903757572975243284/Captureff.PNG"><img src="https://cdn.discordapp.com/attachments/881493015577919500/903757572975243284/Captureff.PNG" data-canonical-src="https://cdn.discordapp.com/attachments/881493015577919500/903757572975243284/Captureff.PNG" style="max-width: 100%;"></a>
